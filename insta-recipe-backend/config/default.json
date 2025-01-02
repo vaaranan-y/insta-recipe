@@ -1,0 +1,5 @@
+{
+  "URI":"mongodb+srv://vaaranan:redlion26@recipe-db.nxkfw.mongodb.net/recipes?retryWrites=true&w=majority",
+  "secretOrKey": "secret",
+  "JWT_KEY": "secret"
+}
